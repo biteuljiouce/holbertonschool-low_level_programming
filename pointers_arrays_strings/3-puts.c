@@ -1,3 +1,5 @@
+#include "holberton.h"
+
 /**
  * _puts - Prints a string, followed by a new line, to stdout.
  * @s: char pointer
