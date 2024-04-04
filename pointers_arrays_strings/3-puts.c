@@ -4,9 +4,9 @@
  * _puts - Prints a string, followed by a new line, to stdout.
  * @s: char pointer
  *
- * Return: int
+ * Return: void
  */
-int _puts(char *str)
+void _puts(char *str)
 {
 	while (*str)
 	{
