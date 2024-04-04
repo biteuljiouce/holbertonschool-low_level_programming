@@ -20,11 +20,8 @@ char *_strcpy(char *dest, char *src)
 	while (src[len] != '\0')
 		len++;
 
-//	printf("len = %d \n", len);
-
  	for (i = 0; i <= len; i++)
 	{
-		// printf("src[i] = %d \n", src[i]);
 		dest[i] = src[i];
 	}
 
